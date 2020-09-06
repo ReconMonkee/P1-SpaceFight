@@ -2,12 +2,12 @@
 A Web Game created by Joshua Johannsen
 
 
-##Project Report
+## Project Report
 
-###Reflection
+### Reflection
 This project was quite a bit tougher than I originally thought it would be. My original idea was to go much more like Angry Birds, and have the mouse click and drag the ball to fire it, but soon realized that was a lot more effort than I originally thought. From there, and glossing over my fellow students projects I came to the conclusion to use a cannon instead, and threw in some 'Evil Aliens' into the mix to give it a bit of flair.
 
-###Self-Evaluation
+### Self-Evaluation
 - [x] D-1: The repository link is submitted to Canvas before the project deadline.
 - [x] D-2: The repository contains, in the top-level directory, a <code>README.md</code> file that includes the project identifier and author's name.
 - [x] D-3: The project content is eligible for an <a href="https://www.esrb.org/ratings-guide/">ESRB Rating</a> of M or less.
