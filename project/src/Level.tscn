@@ -242,7 +242,7 @@ margin_left = -17.1136
 margin_top = -3.78632
 margin_right = 14.8864
 margin_bottom = 4.21368
-color = Color( 0.0666667, 0.145098, 0.647059, 1 )
+color = Color( 0.647059, 0.623529, 0.0666667, 1 )
 __meta__ = {
 "_edit_use_anchors_": false
 }
@@ -286,4 +286,5 @@ valign = 1
 __meta__ = {
 "_edit_use_anchors_": false
 }
+[connection signal="draw" from="." to="." method="_on_Level_draw"]
 [connection signal="text_changed" from="StrengthValue" to="SpaceCannon" method="_on_StrengthValue_text_changed"]
