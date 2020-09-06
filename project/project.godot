@@ -15,7 +15,7 @@ _global_script_class_icons={
 
 [application]
 
-config/name="Alien PinBall"
+config/name="SpaceFight"
 run/main_scene="res://src/Level.tscn"
 config/icon="res://icon.png"
 
